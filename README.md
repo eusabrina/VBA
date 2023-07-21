@@ -1,5 +1,7 @@
 
-# VBA ![xlsm1](https://github.com/eusabrina/VBA/assets/67608949/bb644bcd-dd1d-48d4-bf64-dc660e2905ef)  
+# ![xlsm2](https://github.com/eusabrina/VBA/assets/67608949/8493c0a9-ae4e-44a5-aba6-346299b9d4af)  VBA 
+
+
 <br>
 
 ### Cadastro de Clientes - Portfólio.xlsm
@@ -10,18 +12,15 @@
 ### Forecast - Portfólio.xlsm
 - Nesse arquivo mostra tratamento de informações nas tabelas, e envio de e-mail com as informações dessas tabelas e do próprio arquivo.
 <br>
-<br>
 
 
 ### Inconsistência - Portfólio.xlsm
 - Nesse arquivo mostra tratamento de informações nas tabelas, e envio de e-mail com as informações dessas tabelas e do próprio arquivo.
 <br>
-<br>
 
 
 ### Número por extenso.xlsm
 - Nesse arquivo você pode colocar 1 ou mais números e a planilha irá responder com o número por extenso.
-<br>
 <br>
 
 
