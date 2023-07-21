@@ -3,12 +3,27 @@
 <br>
 
 ### Cadastro de Clientes - Portfólio.xlsm
+- Nesse arquivo mostra um modelo de cadastro de clientes via formulário. Onde ele vai preenchendo uma tabela com essas informações. E envio por e-mail as informações.
+<br>
+
 
 ### Forecast - Portfólio.xlsm
+- Nesse arquivo mostra tratamento de informações nas tabelas, e envio de e-mail com as informações dessas tabelas e do próprio arquivo.
+<br>
+<br>
+
 
 ### Inconsistência - Portfólio.xlsm
+- Nesse arquivo mostra tratamento de informações nas tabelas, e envio de e-mail com as informações dessas tabelas e do próprio arquivo.
+<br>
+<br>
+
 
 ### Número por extenso.xlsm
+- Nesse arquivo você pode colocar 1 ou mais números e a planilha irá responder com o número por extenso.
+<br>
+<br>
+
 
 
 
