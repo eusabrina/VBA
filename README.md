@@ -23,6 +23,9 @@
 - Nesse arquivo você pode colocar 1 ou mais números e a planilha irá responder com o número por extenso.
 <br>
 
+### Macro disparo de e-mails em lote.xlsm
+- Nesse arquivo você pode colocar uma tabela com as informações que você quer enviar por e-mail para vários vendedores de uma vez.
+<br>
 
 
 
